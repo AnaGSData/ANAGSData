@@ -56,4 +56,5 @@ I am particularly interested in opportunities related to People Analytics, HR An
 ## 📫 Contact
 
 📍 Málaga, Spain
+
 🔗 You can contact me through [LinkedIn](https://www.linkedin.com/in/anamgarciasanchez/).
