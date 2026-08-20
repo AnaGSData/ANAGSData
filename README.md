@@ -42,6 +42,22 @@ I am particularly interested in opportunities related to People Analytics, HR An
 
 ---
 
+## 📁 Featured Projects
+
+| Project | Tools | Description |
+| :--- | :--- | :--- |
+| [Compensation Analytics \| Power BI Case Study](https://github.com/AnaGSData/compensation-analytics-power-bi) | Power BI · Power Query · DAX · Compensation Analytics | End-to-end compensation analytics case study covering salary structure, internal pay positioning, pay equity, performance alignment, market competitiveness and salary review insights. |
+| [Workforce Insights Dashboard](https://github.com/AnaGSData/workforce-insights-dashboard) | Power BI · Power Query · DAX · People Analytics | End-to-end People Analytics dashboard covering workforce composition, performance, wellbeing, promotions and talent risk indicators. |
+| [ABC Corporation Attrition Analysis](https://github.com/AnaGSData/abc-corporation-attrition-analysis) | People Analytics · Python · MySQL | People Analytics case study focused on employee attrition and retention insights at ABC Corporation. |
+| [Sakila SQL Data Analysis](https://github.com/AnaGSData/sakila-sql-data-analysis) | SQL · MySQL · Data Analysis | SQL project using the Sakila sample database to analyze rentals, customers, films and business performance. |
+| [MusicStream Data Analysis](https://github.com/AnaGSData/musicstream-data-analysis) | Python · APIs · SQL · MySQL | Data analytics project involving API extraction, ETL, database design and SQL-based business analysis. |
+| [Friends vs Big Bang Power BI](https://github.com/AnaGSData/friends-vs-bigbang-powerbi) | Power BI · Data Visualization · Storytelling | Comparative dashboard project exploring ratings, audience metrics and visual storytelling techniques. |
+| [Airline Loyalty Analysis](https://github.com/AnaGSData/airline-loyalty-analysis) | Python · Pandas · Data Visualization | Exploratory data analysis project focused on customer behavior, loyalty patterns and flight activity. |
+| [LOTR Saga Success Analysis](https://github.com/AnaGSData/lotr-saga-success-analysis) | Power BI · Python · Storytelling | Analysis of the success factors behind The Lord of the Rings and The Hobbit film sagas. |
+| [Friends Tableau Dashboard](https://github.com/AnaGSData/friends-tableau-dashboard) | Tableau · Data Visualization · Storytelling | Interactive Tableau dashboard focused on TV series analytics and data storytelling. |
+
+---
+
 ## 📫 Contact
 
 📍 Málaga, Spain
